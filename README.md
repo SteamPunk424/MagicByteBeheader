@@ -1,5 +1,6 @@
 # MagicByteBeheader
-Injects magic bytes of a specified file type into other files in order to bypass magic byte checks.
+Injects magic bytes of a specified file type into other files in order to bypass magic byte checks for file uploads.
+(I am not responisble for damages caused by the use this tool. This tool is for research purposes only.)
 
 ```
 Usage:
